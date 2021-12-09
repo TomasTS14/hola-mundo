@@ -2,7 +2,10 @@
 
 
 
-## el tutorial de git de hola mundo.
+
+## el tutorial 
+de git de  mundo.
 
 
-y aqui hago cambios en rama principal lmaaao
+y aqui se me ocurrio hacer  cambios en rama principal lmaaao
+
